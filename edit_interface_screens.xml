@@ -16,6 +16,6 @@
 -->
 
 <screens>
-	<screen code_name="json_data" display_name="View JSON Data" lock_type="json_data_source" />
+	<!--<screen code_name="json_data" display_name="View JSON Data" lock_type="json_data_source" />-->
 	<screen code_name="paths" display_name="Web Paths" lock_type="lookups" icon="web" />
 </screens>
